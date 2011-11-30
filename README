@@ -1,0 +1,7 @@
+Install/include:
+<script src="jquery.loopthroughimages.js"></script>
+
+Usage:
+
+Select images you want to loop through and set speed in milliseconds
+$('.images img').loopThroughImages({'speed' : 1000});
